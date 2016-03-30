@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\daemon\Documents\RAD Studio\Projects\Project2.cbproj=C:\Users\daemon\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\daemon\Documents\RAD Studio\Projects\Project6.cbproj=C:\Users\daemon\Documents\RAD Studio\Projects\Project5.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\daemon\Documents\RAD Studio\Projects\Project5.cbproj=C:\Users\daemon\Documents\RAD Studio\Projects\Project4.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\daemon\Documents\RAD Studio\Projects\Project4.cbproj=C:\Users\daemon\Documents\RAD Studio\Projects\Project3.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\daemon\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\daemon\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,C:\Users\daemon\Documents\RAD Studio\Projects\clock2.dfm=C:\Users\daemon\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cpp,C:\Users\daemon\Documents\RAD Studio\Projects\clock2.cpp=C:\Users\daemon\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\daemon\Documents\RAD Studio\Projects\Project3.cbproj=C:\Users\daemon\Documents\RAD Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.h,C:\Users\daemon\Documents\RAD Studio\Projects\clock2.h=C:\Users\daemon\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2012.06.01 10:37:50.447,C:\Documents and Settings\user\Мои документы\RAD Studio\Projects\Project7.cbproj=E:\Projects\Project6.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
